@@ -1,0 +1,14 @@
+{
+  "name": "grand-ivy",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "riya-chawla"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0"
+  }
+}
